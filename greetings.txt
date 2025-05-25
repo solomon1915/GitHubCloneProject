@@ -1,1 +1,11 @@
+git clone <REPOSITORY-URL>
 
+ cd GitHubCloneProject
+
+Hello, this is a message from my cloned repository!
+
+git add .
+
+ git commit -m "Add greetings.txt and README.md"
+
+git push origin master
